@@ -1022,7 +1022,7 @@ vendor/etc/wifi/vendor_cmd.xml
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 
 # WiFi Display (system) - from marvel_g A171WEH.20
-system/framework/WfdCommon.jar;BOOT_JAR|27251f8421652af8abffb1f3fd9449fe0ec64ee5|6d1f1d953c48a414e978263256e2ed3aec1580b7
+system/framework/WfdCommon.jar;BOOT_JAR|6d1f1d953c48a414e978263256e2ed3aec1580b7|6d1f1d953c48a414e978263256e2ed3aec1580b7
 system_ext/bin/wfdservice64:system_ext/bin/wfdservice|6b738758fe3d21d6d53d3fb522e1321b54592fa9
 system_ext/etc/init/wfdservice.rc|907def8565d8f91f531ca7dfad880af05d540b0c
 system_ext/etc/permissions/wfd-system-ext-privapp-permissions-qti.xml|6669d5ee462c981663b8ac573d84d334e4eed96c
@@ -1040,7 +1040,7 @@ system_ext/lib64/libwfdmmsink.so|a250fd4085ec04345db8067f11962f57c3b166f0
 system_ext/lib64/libwfdmmsrc_system.so|69e08746a9557ee5fba3e02a8170032db0fa0105
 system_ext/lib64/libwfdnative.so;SYMLINK=system_ext/priv-app/WfdService/lib/arm64/libwfdnative.so|923acb22f26dc3aab5115cf685a161611e43c018
 system_ext/lib64/libwfdrtsp.so|14eec96c4fa615096c473d5a269ba315a53cfd00
-system_ext/lib64/libwfdservice.so|429839b831a8b16fb858179241dc6183c50bdf13|54624fd8c8ef2932e71c4b3ce176fb712e884f5a
+system_ext/lib64/libwfdservice.so|54624fd8c8ef2932e71c4b3ce176fb712e884f5a|54624fd8c8ef2932e71c4b3ce176fb712e884f5a
 system_ext/lib64/libwfdsinksm.so|e714120166d6480ada0b629ddd73c499c73c55a2
 system_ext/lib64/libwfduibcinterface.so|62a596c93efa57bdc79b078d74a3ccf4d19d1f58
 system_ext/lib64/libwfduibcsink.so|a6fc5d0245e23648812a535f7338d562c9317f09
